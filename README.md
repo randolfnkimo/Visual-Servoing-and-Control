@@ -54,10 +54,5 @@ Supervised by: **Zanne Philippe**
 ## Acknowledgements
 This project was part of the TPE-ISAV course and reflects extensive work in robotic visual servoing and control systems.
 
-## Repository Structure
-- `src/`: Source code for image processing and control algorithms.
-- `docs/`: Documentation and detailed report.
-- `simulation/`: Video demonstrations of system behavior.
-
 ---
 
